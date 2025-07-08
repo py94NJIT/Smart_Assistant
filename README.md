@@ -18,7 +18,7 @@ Speakers or headphones.
 
 Python 3 (usually pre-installed on Raspberry Pi OS).
 
-##
+## How it Works
 The core of the assistant is built around a few key functions:
 
 speak(text): Takes text as input and uses pyttsx3 to convert it into speech.
